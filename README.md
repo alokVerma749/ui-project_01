@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/prahladinala/ineuron-live-class-project-1">
+  <a href="https://github.com/alokVerma749/ui-project_01">
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
