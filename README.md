@@ -6,7 +6,6 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
-[![Behance][behance-shield]][behance-url]
 
 <!-- PROJECT LOGO -->
 <br />
